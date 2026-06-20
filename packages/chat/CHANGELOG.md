@@ -1,5 +1,12 @@
 # chat
 
+## 4.31.1
+
+### Patch Changes
+
+- d034b8b: docs(adapters): add Linq as a vendor-official adapter (`@linqapp/chat-sdk-adapter`) to the catalog, docs listing, and CLI scaffold spec
+- 06af3e1: docs(adapters): add Novu as a vendor-official adapter (`@novu/chat-sdk-adapter`) to the catalog, docs listing, and CLI scaffold spec
+
 ## 4.31.0
 
 ### Minor Changes
